@@ -7,7 +7,7 @@ guerrero = Guerrero("Grog", 15, "Hacha Doble")
 mago = Mago("Zephyr", 22, "Tormenta de Escarcha")
 arquero = Arquero("Lira", 18, 50)
 
-# Lista de aventureros para demostrar polimorfismo
+
 taberna = [guerrero, mago, arquero]
 
 print("--- Registro de la Taberna de los Aventureros ---")
