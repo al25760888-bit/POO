@@ -7,7 +7,7 @@ def ejecutar_menu():
     platillo2 = Bebida("Café Americano", 45.00, "Caliente")
     platillo3 = Postre("Pastel de Chocolate", 85.00, False)
 
-    # Lista para iterar y mostrar resultados
+    
     menu = [platillo1, platillo2, platillo3]
 
     print("--- MENÚ DEL RESTAURANTE ---")
