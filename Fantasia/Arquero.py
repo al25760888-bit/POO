@@ -6,5 +6,5 @@ class Arquero(Aventurero):
         self.flechas = flechas
 
     def usar_habilidad(self):
-        self.flechas -= 1 # Lógica extra para darle realismo
+        self.flechas -= 1
         print(f"¡{self.nombre} dispara una flecha! Le quedan {self.flechas}. ")
